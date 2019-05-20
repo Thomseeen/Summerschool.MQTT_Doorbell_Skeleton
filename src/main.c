@@ -19,7 +19,7 @@
 #include "esp_wifi.h"
 #include "nvs_flash.h"
 // SNTP
-#include "apps/sntp/sntp.h"
+#include "lwip/apps/sntp.h"
 #include "lwip/err.h"
 // Camera
 #include "esp_camera.h"
